@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Quién coño eres?"
+            android:text="Tu apellido es:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp" />
         <TextView
@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="No me importas:"
+            android:text="Tus años son:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp"/>
         <TextView
@@ -68,7 +68,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="No me importas:"
+            android:text="¿Hombre o mujer?:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp"/>
 
