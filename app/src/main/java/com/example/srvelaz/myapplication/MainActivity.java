@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
+        int hola = 4;
+
         TextView nombreTextView = (TextView) findViewById(R.id.nombreTextViewID);
         TextView edadTextView = (TextView) findViewById(R.id.edadTextViewID);
         TextView generoTextView = (TextView) findViewById(R.id.generoTextViewID);

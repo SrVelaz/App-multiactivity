@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tu edad es:"
+            android:text="Tus años son:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp"/>
         <TextView
@@ -68,7 +68,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tu género es:"
+            android:text="¿Hombre o mujer?:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp"/>
 
