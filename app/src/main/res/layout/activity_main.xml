@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tu nombre es:"
+            android:text="Tu apellido es:"
             android:textSize="30sp"
             android:layout_marginLeft="20dp" />
         <TextView
